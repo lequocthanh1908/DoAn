@@ -1,0 +1,498 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\models\\doancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\models\\doancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\project\\addtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\project\\addtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\project\\addtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\project\\addtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\quanlycongviec\\mytask\\listtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\mytask\\listtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\quanlycongviec.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\quanlycongviec.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\quanlycongviec\\project\\detailproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\project\\detailproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\mytask\\detailtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\mytask\\detailtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\quanlycongviec\\project\\asigntask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\project\\asigntask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\project\\detailproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\project\\detailproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\quanlycongviec\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\mytask\\listtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\mytask\\listtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\nhanvien\\listnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\nhanvien\\listnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\nhanvien\\addnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\nhanvien\\addnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\quanlycongviec\\nhanvien\\addnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\nhanvien\\addnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\quanlycongviec\\nhanvien\\listnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\nhanvien\\listnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\project\\asigntask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\project\\asigntask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\mytask\\detailtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\mytask\\detailtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\project\\addproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\project\\addproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\quanlycongviec\\project\\addproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\project\\addproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\logwork\\detaillogwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\logwork\\detaillogwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\quanlycongviec\\logwork\\detaillogwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\logwork\\detaillogwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\acer\\downloads\\git-test\\doan-master\\quanlycongviec\\quanlycongviec\\quanlycongviec\\listproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\listproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\quanlycongviec\\listproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81518C5D-B4CD-4836-94DA-DBA0606D62F4}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\listproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "staff.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Models\\staff.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Models\\staff.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Models\\staff.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Models\\staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:34:52.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Models\\Comment.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Models\\Comment.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:34:39.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddTask.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Project\\AddTask.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Project\\AddTask.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Project\\AddTask.cs [Design]",
+              "RelativeToolTip": "QuanLyCongViec\\Project\\AddTask.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:26:13.263Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddTask.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Project\\AddTask.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Project\\AddTask.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Project\\AddTask.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Project\\AddTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:11:20.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoAnContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Models\\DoAnContext.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Models\\DoAnContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Models\\DoAnContext.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Models\\DoAnContext.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwCgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:42:02.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Models\\User.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Models\\User.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:48:07.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Models\\Task.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Models\\Task.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:32:29.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListTask.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\MyTask\\ListTask.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\MyTask\\ListTask.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\MyTask\\ListTask.cs [Design]",
+              "RelativeToolTip": "QuanLyCongViec\\MyTask\\ListTask.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:41:16.287Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuanLyCongViec",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec.csproj",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\QuanLyCongViec.csproj",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec.csproj",
+              "RelativeToolTip": "QuanLyCongViec\\QuanLyCongViec.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T06:32:43.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Program.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:32:38.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetailTask.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\MyTask\\DetailTask.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\MyTask\\DetailTask.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\MyTask\\DetailTask.cs [Design]",
+              "RelativeToolTip": "QuanLyCongViec\\MyTask\\DetailTask.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:28:41.975Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetailProject.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Project\\DetailProject.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Project\\DetailProject.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Project\\DetailProject.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Project\\DetailProject.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAvwIcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:46:05.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetailProject.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Project\\DetailProject.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Project\\DetailProject.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Project\\DetailProject.cs [Design]",
+              "RelativeToolTip": "QuanLyCongViec\\Project\\DetailProject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:46:01.929Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Home.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Home.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Home.cs [Design]",
+              "RelativeToolTip": "QuanLyCongViec\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:13:59.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Home.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Home.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Home.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Home.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:14:16.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AsignTask.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Project\\AsignTask.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Project\\AsignTask.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Project\\AsignTask.cs [Design]",
+              "RelativeToolTip": "QuanLyCongViec\\Project\\AsignTask.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:46:00.406Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ListTask.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\MyTask\\ListTask.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\MyTask\\ListTask.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\MyTask\\ListTask.cs",
+              "RelativeToolTip": "QuanLyCongViec\\MyTask\\ListTask.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAD4v0wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:41:18.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\NhanVien\\ListNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\NhanVien\\ListNhanVien.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\NhanVien\\ListNhanVien.cs",
+              "RelativeToolTip": "QuanLyCongViec\\NhanVien\\ListNhanVien.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAnwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:39:23.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\NhanVien\\AddNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\NhanVien\\AddNhanVien.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\NhanVien\\AddNhanVien.cs [Design]",
+              "RelativeToolTip": "QuanLyCongViec\\NhanVien\\AddNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:35:16.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\NhanVien\\AddNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\NhanVien\\AddNhanVien.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\NhanVien\\AddNhanVien.cs",
+              "RelativeToolTip": "QuanLyCongViec\\NhanVien\\AddNhanVien.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:35:19.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DetailTask.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\MyTask\\DetailTask.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\MyTask\\DetailTask.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\MyTask\\DetailTask.cs",
+              "RelativeToolTip": "QuanLyCongViec\\MyTask\\DetailTask.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAWwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:01:03.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddProject.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Project\\AddProject.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Project\\AddProject.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Project\\AddProject.cs [Design]",
+              "RelativeToolTip": "QuanLyCongViec\\Project\\AddProject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:55:56.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ListNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\NhanVien\\ListNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\NhanVien\\ListNhanVien.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\NhanVien\\ListNhanVien.cs [Design]",
+              "RelativeToolTip": "QuanLyCongViec\\NhanVien\\ListNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:32:41.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AsignTask.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Project\\AsignTask.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Project\\AsignTask.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Project\\AsignTask.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Project\\AsignTask.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:48:17.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddProject.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Project\\AddProject.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Project\\AddProject.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\Project\\AddProject.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Project\\AddProject.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:41:16.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DetailLogWork.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\LogWork\\DetailLogWork.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\LogWork\\DetailLogWork.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\LogWork\\DetailLogWork.cs",
+              "RelativeToolTip": "QuanLyCongViec\\LogWork\\DetailLogWork.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:52:52.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DetailLogWork.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\LogWork\\DetailLogWork.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\LogWork\\DetailLogWork.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\LogWork\\DetailLogWork.cs [Design]",
+              "RelativeToolTip": "QuanLyCongViec\\LogWork\\DetailLogWork.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:52:50.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ListProject.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\ListProject.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\ListProject.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\ListProject.cs",
+              "RelativeToolTip": "QuanLyCongViec\\ListProject.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAjwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:34:35.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ListProject.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\git-test\\DoAn-master\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\ListProject.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\ListProject.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\ListProject.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec\\ListProject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:34:33.825Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
