@@ -1,5 +1,6 @@
 ﻿using QuanLyCongViec.LogWork;
 using QuanLyCongViec.Models;
+using QuanLyCongViec.MyTask;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -87,6 +88,19 @@ namespace QuanLyCongViec.NhanVien
                 int id = Convert.ToInt32(selectedItem.Text);
                 DetailLogWork dailog = new DetailLogWork(id);
                 dailog.Show();
+            }
+        }
+
+        private void listView1_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+            ListViewItem item = listView1.GetItemAt(e.X, e.Y);
+            if (item != null)
+            {
+                // Lấy ID từ cột đầu tiên của item đó
+                string strid = item.SubItems[0].Text;
+                int idTask = Convert.ToInt32(strid);
+                ListTask detail = new ListTask(idTask);
+                detail.Show();
             }
         }
     }

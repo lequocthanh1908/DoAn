@@ -32,15 +32,19 @@
             label1 = new Label();
             button1 = new Button();
             button2 = new Button();
+            txttongso = new Label();
+            txtcvhoanthanh = new Label();
+            txtcvchuathoanthanh = new Label();
+            txttilehoanthanh = new Label();
             SuspendLayout();
             // 
             // listView1
             // 
             listView1.FullRowSelect = true;
             listView1.GridLines = true;
-            listView1.Location = new Point(26, 64);
+            listView1.Location = new Point(26, 167);
             listView1.Name = "listView1";
-            listView1.Size = new Size(519, 343);
+            listView1.Size = new Size(739, 240);
             listView1.TabIndex = 0;
             listView1.UseCompatibleStateImageBehavior = false;
             listView1.ItemActivate += ListTask_Load;
@@ -72,14 +76,55 @@
             button2.Name = "button2";
             button2.Size = new Size(179, 29);
             button2.TabIndex = 3;
-            button2.Text = "Công việc đến hạn";
+            button2.Text = "In";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
+            // txttongso
+            // 
+            txttongso.AutoSize = true;
+            txttongso.Location = new Point(29, 76);
+            txttongso.Name = "txttongso";
+            txttongso.Size = new Size(50, 20);
+            txttongso.TabIndex = 4;
+            txttongso.Text = "label2";
+            // 
+            // txtcvhoanthanh
+            // 
+            txtcvhoanthanh.AutoSize = true;
+            txtcvhoanthanh.Location = new Point(250, 76);
+            txtcvhoanthanh.Name = "txtcvhoanthanh";
+            txtcvhoanthanh.Size = new Size(50, 20);
+            txtcvhoanthanh.TabIndex = 5;
+            txtcvhoanthanh.Text = "label3";
+            // 
+            // txtcvchuathoanthanh
+            // 
+            txtcvchuathoanthanh.AutoSize = true;
+            txtcvchuathoanthanh.Location = new Point(29, 122);
+            txtcvchuathoanthanh.Name = "txtcvchuathoanthanh";
+            txtcvchuathoanthanh.Size = new Size(50, 20);
+            txtcvchuathoanthanh.TabIndex = 6;
+            txtcvchuathoanthanh.Text = "label4";
+            // 
+            // txttilehoanthanh
+            // 
+            txttilehoanthanh.AutoSize = true;
+            txttilehoanthanh.Location = new Point(252, 122);
+            txttilehoanthanh.Name = "txttilehoanthanh";
+            txttilehoanthanh.Size = new Size(50, 20);
+            txttilehoanthanh.TabIndex = 7;
+            txttilehoanthanh.Text = "label5";
             // 
             // ListTask
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(txttilehoanthanh);
+            Controls.Add(txtcvchuathoanthanh);
+            Controls.Add(txtcvhoanthanh);
+            Controls.Add(txttongso);
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(label1);
@@ -97,5 +142,9 @@
         private Label label1;
         private Button button1;
         private Button button2;
+        private Label txttongso;
+        private Label txtcvhoanthanh;
+        private Label txtcvchuathoanthanh;
+        private Label txttilehoanthanh;
     }
 }
