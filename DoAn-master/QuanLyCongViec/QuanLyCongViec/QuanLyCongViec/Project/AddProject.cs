@@ -24,7 +24,6 @@ namespace QuanLyCongViec.Project
             {
                 cbb_namePM.Items.Add(data[i].StaffName);
             }
-
             this.id = id;
         }
 
@@ -32,8 +31,7 @@ namespace QuanLyCongViec.Project
         {
             QuanLyCongViec.Models.Project project=new Models.Project();
             project.NameProject=txtNameProject.Text;
-            var nampm = db.staff.Find(id);
-            project.NamePm=nampm.StaffName;
+            project.NamePm=cbb_namePM.Text;
             project.StartDate=dTP_StartDate.Value;
             project.EndDate=DTP_Enddate.Value;
             db.Projects.Add(project);

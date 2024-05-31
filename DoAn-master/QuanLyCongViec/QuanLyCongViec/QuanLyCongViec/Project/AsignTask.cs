@@ -28,16 +28,22 @@ namespace QuanLyCongViec.Project
                 var staff=_db.staff.FirstOrDefault(x=>x.StaffName==comboBox1.SelectedItem.ToString());
                 data.IdStaff =staff.Id;
                 data.StartDate=DateTime.Now;
+                data.Effort = Convert.ToInt32(txtEfff.Text);
                 data.Status = "Đang thực hiện";
                 _db.Tasks.Update(data);
                 _db.SaveChanges();
                 MessageBox.Show("Giao việc thành công");
-                this.Close();
+                this.Close();                
+                DetailProject detail = new DetailProject((int)data.IdProject);
+                detail.Show();
             }
         }
 
         private void AsignTask_Load(object sender, EventArgs e)
         {
+            var task=_db.Tasks.Find(id);
+            txtTaskName.Text = task.NameTask;
+            txtEfff.Text=task.Effort.ToString();
             var datacbb= _db.staff.Where(s=>s.IdPositionNavigation.PositionName == "Dev").ToList();
             foreach (var staff in datacbb) { 
              comboBox1.Items.Add(staff.StaffName);

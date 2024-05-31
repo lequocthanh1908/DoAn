@@ -31,13 +31,16 @@
             button1 = new Button();
             label1 = new Label();
             comboBox1 = new ComboBox();
+            txtTaskName = new Label();
+            txtEfff = new TextBox();
+            label2 = new Label();
             SuspendLayout();
             // 
             // button1
             // 
-            button1.Location = new Point(23, 129);
+            button1.Location = new Point(262, 150);
             button1.Name = "button1";
-            button1.Size = new Size(317, 29);
+            button1.Size = new Size(126, 29);
             button1.TabIndex = 0;
             button1.Text = "Xác nhận";
             button1.UseVisualStyleBackColor = true;
@@ -46,7 +49,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(23, 18);
+            label1.Location = new Point(12, 49);
             label1.Name = "label1";
             label1.Size = new Size(99, 20);
             label1.TabIndex = 1;
@@ -55,16 +58,45 @@
             // comboBox1
             // 
             comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(23, 61);
+            comboBox1.Location = new Point(12, 92);
             comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(317, 28);
+            comboBox1.Size = new Size(149, 28);
             comboBox1.TabIndex = 2;
+            // 
+            // txtTaskName
+            // 
+            txtTaskName.AutoSize = true;
+            txtTaskName.Font = new Font("Segoe UI", 16.2F, FontStyle.Regular, GraphicsUnit.Point);
+            txtTaskName.Location = new Point(97, 9);
+            txtTaskName.Name = "txtTaskName";
+            txtTaskName.Size = new Size(189, 38);
+            txtTaskName.TabIndex = 3;
+            txtTaskName.Text = "Tên nhân viên";
+            // 
+            // txtEfff
+            // 
+            txtEfff.Location = new Point(223, 93);
+            txtEfff.Name = "txtEfff";
+            txtEfff.Size = new Size(165, 27);
+            txtEfff.TabIndex = 4;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(223, 49);
+            label2.Name = "label2";
+            label2.Size = new Size(127, 20);
+            label2.TabIndex = 5;
+            label2.Text = "Số ngày thực hiện";
             // 
             // AsignTask
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(377, 223);
+            ClientSize = new Size(409, 197);
+            Controls.Add(label2);
+            Controls.Add(txtEfff);
+            Controls.Add(txtTaskName);
             Controls.Add(comboBox1);
             Controls.Add(label1);
             Controls.Add(button1);
@@ -80,5 +112,8 @@
         private Button button1;
         private Label label1;
         private ComboBox comboBox1;
+        private Label txtTaskName;
+        private TextBox txtEfff;
+        private Label label2;
     }
 }

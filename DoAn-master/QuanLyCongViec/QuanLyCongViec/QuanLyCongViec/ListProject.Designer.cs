@@ -34,6 +34,7 @@
             columnHeader3 = new ColumnHeader();
             columnHeader4 = new ColumnHeader();
             button1 = new Button();
+            label1 = new Label();
             SuspendLayout();
             // 
             // listView1
@@ -41,9 +42,9 @@
             listView1.Columns.AddRange(new ColumnHeader[] { columnHeader1, columnHeader2, columnHeader3, columnHeader4 });
             listView1.FullRowSelect = true;
             listView1.GridLines = true;
-            listView1.Location = new Point(34, 95);
+            listView1.Location = new Point(34, 101);
             listView1.Name = "listView1";
-            listView1.Size = new Size(725, 325);
+            listView1.Size = new Size(725, 319);
             listView1.TabIndex = 0;
             listView1.UseCompatibleStateImageBehavior = false;
             listView1.View = View.Details;
@@ -67,7 +68,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(602, 33);
+            button1.Location = new Point(640, 48);
             button1.Name = "button1";
             button1.Size = new Size(119, 29);
             button1.TabIndex = 1;
@@ -75,17 +76,29 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 16.2F, FontStyle.Regular, GraphicsUnit.Point);
+            label1.Location = new Point(264, 9);
+            label1.Name = "label1";
+            label1.Size = new Size(240, 38);
+            label1.TabIndex = 2;
+            label1.Text = "Danh sách project";
+            // 
             // ListProject
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(label1);
             Controls.Add(button1);
             Controls.Add(listView1);
             Name = "ListProject";
             Text = "ListProject";
             Load += ListProject_Load;
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -96,5 +109,6 @@
         private ColumnHeader columnHeader3;
         private ColumnHeader columnHeader4;
         private Button button1;
+        private Label label1;
     }
 }

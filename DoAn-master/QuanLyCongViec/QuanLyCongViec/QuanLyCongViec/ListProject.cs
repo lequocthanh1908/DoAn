@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Printing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -27,14 +28,15 @@ namespace QuanLyCongViec
 
         private void ListProject_Load(object sender, EventArgs e)
         {
-            var data= new List<Models.Project>();
+            var data = new List<Models.Project>();
             var pm = _db.staff.Find(id);
             if (id == 1)
             {
                 data = _db.Projects.ToList();
             }
-            else {
-                data = _db.Projects.Where(x=>x.NamePm==pm.StaffName).ToList();
+            else
+            {
+                data = _db.Projects.Where(x => x.NamePm == pm.StaffName).ToList();
             }
 
             listView1.Items.Clear();
@@ -61,6 +63,10 @@ namespace QuanLyCongViec
                     listView1.Items.Add(item);
                 }
             }
+            if (id != 1)
+            {
+                button1.Hide();
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -77,7 +83,7 @@ namespace QuanLyCongViec
             {
                 // Lấy ID từ cột đầu tiên của item đó
                 string strid = item.SubItems[0].Text;
-                int id=Convert.ToInt32(strid);
+                int id = Convert.ToInt32(strid);
                 DetailProject detailProject = new DetailProject(id);
                 detailProject.Show();
             }

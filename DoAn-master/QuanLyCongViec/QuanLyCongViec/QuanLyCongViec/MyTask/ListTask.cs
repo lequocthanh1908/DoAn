@@ -9,6 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.TrackBar;
 
 namespace QuanLyCongViec.MyTask
 {
@@ -115,33 +116,44 @@ namespace QuanLyCongViec.MyTask
         }
         private void printDocument_PrintPage(object sender, PrintPageEventArgs e)
         {
-            float yPos = e.MarginBounds.Top;
-            int count = 0;
-            float leftMargin = e.MarginBounds.Left;
-            string line = null;
-            Font printFont = new Font("Arial", 12);
-            SolidBrush myBrush = new SolidBrush(Color.Black);
+            Graphics g = e.Graphics;
 
-            float lineHeight = printFont.GetHeight(e.Graphics) + 20;
-            var data = _db.Tasks.Where(x => x.IdStaff == id).ToList();
-            var title = _db.staff.FirstOrDefault(x => x.Id == data[0].IdStaff);
-            e.Graphics.DrawString("Tên nhân viên"+title.StaffName, printFont, myBrush, leftMargin, yPos, new StringFormat());
-            yPos += lineHeight;
+            Font font = new Font("Arial", 12);
+
+            float x = 20;
+            float y = 20;
+
+            float nameTaskWidth = 200;
+            float descriptionWidth = 200;
+            float projectWidth = 150;
+            float statusWidth = 150;
+            float rowHeight = 40; 
+
+            g.DrawString(" Tên task ", font, Brushes.Black, new RectangleF(x, y, nameTaskWidth, rowHeight), new StringFormat());
+            x += nameTaskWidth;
+            g.DrawString(" Mô tả ", font, Brushes.Black, new RectangleF(x, y, descriptionWidth, rowHeight), new StringFormat());
+            x += descriptionWidth;
+            g.DrawString(" Project ", font, Brushes.Black, new RectangleF(x, y, projectWidth, rowHeight), new StringFormat());
+            x += projectWidth;
+            g.DrawString(" Trạng thái ", font, Brushes.Black, new RectangleF(x, y, statusWidth, rowHeight), new StringFormat());
+
+            var data = _db.Tasks.Where(task => task.IdStaff == id).ToList();
+
             foreach (var task in data)
             {
                 var pj = _db.Projects.Find(task.IdProject);
-                line = $"Tên task: {task.NameTask}                Mô tả:{task.Description}                 Project: {pj.NameProject}                 Trạng thái:{task.Status}";
+                x = 20;
+                y += rowHeight;
 
-                string[] lines = SplitStringToFit(line, printFont, e.MarginBounds.Width, e.Graphics);
-
-                foreach (var subLine in lines)
-                {
-                    e.Graphics.DrawString(subLine, printFont, myBrush, leftMargin, yPos, new StringFormat());
-                    yPos += lineHeight; 
-                }
-
-                count++;
+                g.DrawString(" " + task.NameTask + " ", font, Brushes.Black, new RectangleF(x, y, nameTaskWidth, rowHeight), new StringFormat { Trimming = StringTrimming.Word, FormatFlags = StringFormatFlags.LineLimit });
+                x += nameTaskWidth;
+                g.DrawString(" " + task.Description + " ", font, Brushes.Black, new RectangleF(x, y, descriptionWidth, rowHeight), new StringFormat { Trimming = StringTrimming.Word, FormatFlags = StringFormatFlags.LineLimit });
+                x += descriptionWidth;
+                g.DrawString(" " + pj.NameProject + " ", font, Brushes.Black, new RectangleF(x, y, projectWidth, rowHeight), new StringFormat { Trimming = StringTrimming.Word, FormatFlags = StringFormatFlags.LineLimit });
+                x += projectWidth;
+                g.DrawString(" " + task.Status + " ", font, Brushes.Black, new RectangleF(x, y, statusWidth, rowHeight), new StringFormat { Trimming = StringTrimming.Word, FormatFlags = StringFormatFlags.LineLimit });
             }
+
         }
         private string[] SplitStringToFit(string text, Font font, int maxWidth, Graphics g)
         {
@@ -166,5 +178,7 @@ namespace QuanLyCongViec.MyTask
 
             return lines.ToArray();
         }
+
+
     }
 }
